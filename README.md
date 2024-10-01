@@ -7,7 +7,7 @@ H1D022053
 Shift C
 
 
-##Screenshot
+## Screenshot
 
 <div style="display: flex; justify-content: space-between;">
  <img src="images/login.png" alt="Tampilan Perkenalan" style="width: 12%;">
