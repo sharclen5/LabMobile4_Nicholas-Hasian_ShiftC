@@ -1,16 +1,17 @@
-# tugas4praktikum2024
+## tugas4praktikum2024
 
-A new Flutter project.
+Nicholas Hasian
 
-## Getting Started
+H1D022053
 
-This project is a starting point for a Flutter application.
+Shift C
 
-A few resources to get you started if this is your first Flutter project:
+ <img src="images/login.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/register.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/list.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/detail.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/tambah.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/ubah.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/hapus.png" alt="Tampilan Perkenalan" style="width: 12%;">
+ <img src="images/logout.png" alt="Tampilan Perkenalan" style="width: 12%;">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

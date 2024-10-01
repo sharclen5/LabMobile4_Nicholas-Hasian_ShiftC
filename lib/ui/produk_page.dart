@@ -15,7 +15,7 @@ class _ProdukPageState extends State<ProdukPage> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('List Produk'),
+          title: const Text('List Produk Nicholas'),
           actions: [
             Padding(
                 padding: const EdgeInsets.only(right: 20.0),
@@ -32,7 +32,7 @@ class _ProdukPageState extends State<ProdukPage> {
           child: ListView(
             children: [
               ListTile(
-                title: const Text('Logout'),
+                title: const Text('Logout Nicholas'),
                 trailing: const Icon(Icons.logout),
                 onTap: () async {},
               )

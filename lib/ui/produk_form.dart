@@ -13,7 +13,7 @@ class ProdukForm extends StatefulWidget {
 class _ProdukFormState extends State<ProdukForm> {
   final _formKey = GlobalKey<FormState>();
   bool _isLoading = false;
-  String judul = "Tambah Produk";
+  String judul = "Tambah Produk Nicholas";
   String tombolSubmit = "Simpan";
 
   final _kodeProdukController = TextEditingController();
@@ -29,14 +29,14 @@ class _ProdukFormState extends State<ProdukForm> {
   isUpdate(){
     if(widget.produk != null){
       setState((){
-        judul = "Ubah Produk";
+        judul = "Ubah Produk Nicholas";
         tombolSubmit = "Ubah";
         _kodeProdukController.text = widget.produk!.kodeProduk!;
         _namaProdukController.text = widget.produk!.namaProduk!;
         _hargaProdukController.text = widget.produk!.hargaProduk.toString();
       });
     } else{
-      judul = "Tambah Produk";
+      judul = "Tambah Produk Nicholas";
       tombolSubmit = "Simpan";
     }
   }
