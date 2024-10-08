@@ -1,4 +1,4 @@
-package com.example.tugas4praktikum2024
+package com.example.tokokita
 
 import io.flutter.embedding.android.FlutterActivity
 
