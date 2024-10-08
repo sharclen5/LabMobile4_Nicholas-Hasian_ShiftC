@@ -19,3 +19,13 @@ Shift C
  <img src="images/hapus.png" alt="Tampilan Perkenalan" style="width: 12%;">
  <img src="images/logout.png" alt="Tampilan Perkenalan" style="width: 12%;">
 </div>
+
+
+### Login masih gagal
+
+
+<div style="display: flex; justify-content: space-between;">
+ <img src="images/regsukses.png" alt="Tampilan Perkenalan" style="width: 33%;">
+ <img src="images/reg.png" alt="Tampilan Perkenalan" style="width: 33%;">
+ <img src="images/logingagal.png" alt="Tampilan Perkenalan" style="width: 33%;">
+</div>
